@@ -1,14 +1,14 @@
 # VBA-JSON
 This library is very fast and allows many features :
--- As a full object oriented library you can see all the structure in the object explorer.
--- When debugging you can inspect all the json structure.
--- Can parse more than 100MB in less than 30s.
--- Can access all the data structure and type checking.
+-As a full object oriented library you can see all the structure in the object explorer
+-When debugging you can inspect all the json structure
+-Can parse more than 100MB in less than 30s
+-Can access all the data structure and type checking
 
 # How to plug a VBA library
-Put the VBAJson.xlsam file in the same folder (or subfolder) of your main excel file.
+Put the VBAJson.xlsam file in the same folder (or subfolder) of your main excel file
 In your VBA project goto Tool->References->Browse->Select excel extension->Add file VBAJson.xlsam
-Then you can access to the library with VBAJson keyword in your project.
+Then you can access to the library with VBAJson keyword in your project
 
 # Sample usage
 
